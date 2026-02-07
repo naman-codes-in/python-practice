@@ -10,3 +10,4 @@ This repository contains my daily Python practice programs.
 
 ## Files
 - day1_hello.py
+day 2
