@@ -12,3 +12,6 @@ This repository contains my daily Python practice programs.
 - day1_hello.py
 day 2
 Where I downloaded the python and completed the setup of vs code
+print("Hello, Python is working!")
+pappu_1 = "value"
+print("value")
